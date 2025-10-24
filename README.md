@@ -2,7 +2,7 @@
 <!-- Style: Clean Professional + Light Animation -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Hi+I'm+David+Andrey+👋;Frontend+Developer+%7C+IoT+Engineer;Information+Technology+Student+at+Tidar+University;Building+Smarter+and+More+Connected+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Hi+I'm+David+Andrey+Nugroho+👋;Frontend+Developer+%7C+IoT+Engineer;Information+Technology+Student+at+Tidar+University;Building+Smarter+and+More+Connected+Experiences" alt="Typing SVG" />
 
 </h1>
 
@@ -84,6 +84,20 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/DavidAN21/DavidAN21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📝 Medium Articles
+
+Check out my latest articles on **Medium** about IoT, Web Development, and AI:  
+<a href="https://medium.com/@davidandrea0429" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 ## 📫 Contact
 
