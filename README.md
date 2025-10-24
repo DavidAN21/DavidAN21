@@ -58,7 +58,7 @@ ESP32 • Arduino • MQTT • Sensor Integration
 
 ## GitHub Stats
 
-![David Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidandrey&show_icons=true&theme=default&hide_border=true)  
+![David Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAN21&show_icons=true&theme=default&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidandrey&layout=compact&theme=default&hide_border=true)
 
 ---
