@@ -2,14 +2,15 @@
 <!-- Style: Clean Professional + Light Animation -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Hi+I'm+David+Andrey+👋;Frontend+Developer+%7C+IoT+Engineer;Information+Technology+Student+at+Tidar+University;Building+Smarter+and+More+Connected+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Hi+I'm+David+Andrey+👋;Frontend+Developer+%7C+IoT+Engineer;Information+Technology+Student+at+Tidar+University;Building+Smarter+and+More+Connected+Experiences" alt="Typing SVG" />
+
 </h1>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **David Andrey**, an Information Technology student at **Tidar University**, a **Frontend Developer**, and an **IoT Developer** who enjoys creating modern, responsive, and user-focused digital solutions.  
+I'm **David Andrey Nugroho**, an Information Technology student at **Tidar University**, a **Frontend Developer**, and an **IoT Developer** who enjoys creating modern, responsive, and user-focused digital solutions.  
 I’m passionate about combining design, code, and connected technologies to build interactive and meaningful experiences.  
 
 My work focuses on crafting clean and efficient web interfaces while exploring how IoT systems can integrate with intelligent environments.  
