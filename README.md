@@ -89,10 +89,10 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
 ---
 
 
-## 🐍 My Contribution Snake
+### 🐍 My Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/DavidAN21/DavidAN21/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/DavidAN21/DavidAN21/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Animation](https://raw.githubusercontent.com/DavidAN21/DavidAN21/output/github-contribution-grid-snake.svg)
+
 
 
 
