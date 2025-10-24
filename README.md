@@ -70,6 +70,8 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
 ---
 
 ## 📊 GitHub Stats
+  ![Language usage](https://raw.githubusercontent.com/DavidAN21/DavidAN21/main/assets/lang-bar.svg)
+
 
 <div align="center">
   
@@ -77,6 +79,7 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAN21&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
   <br/><br/>
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidAN21&theme=tokyonight&hide_border=true" height="170"/>
 
