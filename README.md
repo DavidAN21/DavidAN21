@@ -109,7 +109,7 @@ Check out my latest articles on **Medium** about IoT, Web Development, and AI:
 ## 📫 Contact
 
 If you’d like to collaborate or just have a chat about technology, feel free to reach out:  
-**📧 Email:** [david.andrey.nugroho@students.untidar.ac.id](mailto:david.andrey.nugroho@students.untidar.ac.id)  
+ 
 
 <p align="center">
   <a href="https://github.com/DavidAN21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
