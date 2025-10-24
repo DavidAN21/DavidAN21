@@ -70,8 +70,6 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
 ---
 
 ## 📊 GitHub Stats
-  ![Language usage](https://raw.githubusercontent.com/DavidAN21/DavidAN21/main/assets/lang-bar.svg)
-
 
 <div align="center">
   
