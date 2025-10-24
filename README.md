@@ -1,6 +1,6 @@
 # About Me
 
-I'm **David Andrey Nugroho**, an Information Technology student at **Tidar University**, a **Frontend Developer**, and an **IoT Developer** who enjoys creating modern, responsive, and user-focused digital solutions.  
+I'm **David Andrey**, an Information Technology student at **Tidar University**, a **Frontend Developer**, and an **IoT Developer** who enjoys creating modern, responsive, and user-focused digital solutions.  
 I’m passionate about combining design, code, and connected technologies to build interactive and meaningful experiences.  
 
 My work focuses on crafting clean and efficient web interfaces while exploring how IoT systems can integrate with intelligent environments.  
@@ -11,10 +11,29 @@ I believe that technology should not only solve problems but also make life simp
 
 ## Skills
 
-- **Frontend Development:** HTML, CSS, JavaScript, Tailwind  
-- **IoT Development:** ESP32, Arduino, Sensor Integration  
-- **Programming Languages:** C++, Python, PHP  
-- **Other Tools & Frameworks:** Git, VS Code, Laravel  
+### Frontend Development
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+
+### Backend & Frameworks
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net)
+
+### IoT Development
+ESP32 • Arduino • MQTT • Sensor Integration
+
+### Programming Languages
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+
+### Tools & Environment
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white)](https://hadoop.apache.org)
 
 ---
 
@@ -37,23 +56,14 @@ I believe that technology should not only solve problems but also make life simp
 
 ---
 
+## GitHub Stats
+
+![David Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidandrey&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidandrey&layout=compact&theme=default&hide_border=true)
+
+---
+
 ## Contact
 
 If you’d like to collaborate or just have a chat about technology, feel free to reach out:  
 **Email:** david.andrey.nugroho@students.untidar.ac.id  
-
-
-<!--
-**DavidAN21/DavidAN21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
