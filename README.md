@@ -2,9 +2,9 @@
 <!-- Style: Clean Professional + Light Animation -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Hi+I'm+David+Andrey+Nugroho+👋;Frontend+Developer+%7C+IoT+Engineer;Information+Technology+Student+at+Tidar+University;Building+Smarter+and+More+Connected+Experiences" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=Hi+I'm+David+Andrey+Nugroho+👋;Frontend+Developer+%7C+IoT+Engineer;Information+Technology+Student+at+Tidar+University;Building+Smarter+and+More+Connected+Experiences" alt="Typing SVG" />
 </h1>
+
 
 ---
 
@@ -25,6 +25,7 @@ I believe that technology should not only solve problems but also make life simp
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 
 ### ⚙️ Backend & Frameworks
@@ -38,6 +39,8 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
 ### 🧠 Programming Languages
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+
 
 ### 🧰 Tools & Environment
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
@@ -84,11 +87,14 @@ ESP32 • ESP8266 • Arduino • MQTT • Sensor Integration
 </div>
 
 ---
-## 🐍 Contribution Snake
+
+
+## 🐍 My Contribution Snake
 
 ### 🐍 My Contribution Snake
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/DavidAN21/DavidAN21/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/DavidAN21/DavidAN21/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/DavidAN21/DavidAN21/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
